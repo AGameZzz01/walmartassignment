@@ -1,0 +1,23 @@
+//package com.walmart.GraphQL.Services;
+//
+//import java.util.Optional;
+//
+//import org.springframework.beans.factory.annotation.Autowired;
+//import org.springframework.stereotype.Service;
+//
+//import com.walmart.GraphQL.Models.StudentDetails;
+//import com.walmart.GraphQL.Repo.StudentsDataFetcher;
+//
+//@Service
+//public class StudentServiceImp implements StudentService {
+//	
+//	@Autowired
+//	StudentsDataFetcher studentRepo;
+//
+//	@Override
+//	public Optional<StudentDetails> getStudentById(int id) {
+//		// TODO Auto-generated method stub
+//		return studentRepo.findById(id);
+//	}
+//
+//}

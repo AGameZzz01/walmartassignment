@@ -1,0 +1,19 @@
+type Query {
+	students: [StudentsMapper]
+}
+
+type StudentsMapper {
+	id: ID!
+	name: String
+	course: ID
+}
+
+type Query1 {
+	courses: [CoursesMapper]
+}
+
+type CoursesMapper {
+	id: ID!
+	name: String
+	info: String
+}

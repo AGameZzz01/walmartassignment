@@ -1,0 +1,26 @@
+server:
+  port: 5432
+
+spring:
+  application: 
+    name: GraphQL
+
+  datasource:
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    url: localhost:5432
+    username: postgres
+    password: Allen1214$
+  jpa:
+    database-platform: org.hibernate.dialect.SQLServerDialect
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+          - "beans"
+          - "health"
+          - "info"

@@ -1,0 +1,13 @@
+schema {
+	query: Query
+}
+
+type Query {
+	students: [StudentsMapper]
+}
+
+type StudentsMapper {
+	name: String
+	age: int
+	id: int
+}

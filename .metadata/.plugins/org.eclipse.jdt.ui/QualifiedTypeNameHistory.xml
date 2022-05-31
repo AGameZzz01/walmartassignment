@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="com.walmart.GraphQL.Models.CourseDetails"/>
+    <fullyQualifiedTypeName name="graphql.relay.Connection"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.CrossOrigin"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="com.walmart.GraphQL.Services.StudentService"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="graphql.schema.DataFetcher"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="graphql.schema.DataFetchingEnvironment"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.walmart.GraphQL.Repo.StudentFetcher"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.configurationprocessor.json.JSONException"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="graphql.ExecutionResult"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.configurationprocessor.json.JSONObject"/>
+    <fullyQualifiedTypeName name="com.walmart.GraphQL.Models.StudentDetails"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="graphql.kickstart.spring.webclient.boot.GraphQLRequest"/>
+    <fullyQualifiedTypeName name="graphql.kickstart.spring.webclient.boot.GraphQLResponse"/>
+    <fullyQualifiedTypeName name="lombok.Setter"/>
+    <fullyQualifiedTypeName name="lombok.Getter"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="com.walmart.GraphQL.Services.ClientService"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="com.walmart.GraphQL.Response.StudentResponse"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+    <fullyQualifiedTypeName name="com.walmart.GraphQL.Request.CreateStudentRequest"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="com.walmart.GraphQL.Repo.StudentsDataFetcher"/>
+    <fullyQualifiedTypeName name="com.walmart.GraphQL.Repo.CoursesDataFetcher"/>
+</qualifiedTypeNameHistroy>

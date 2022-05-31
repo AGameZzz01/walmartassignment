@@ -1,0 +1,10 @@
+package com.walmart.GraphQL.Services;
+
+import java.util.Optional;
+
+import com.walmart.GraphQL.Models.StudentDetails;
+
+public interface StudentService {
+	public Optional<StudentDetails> getStudentById(int id);
+
+}

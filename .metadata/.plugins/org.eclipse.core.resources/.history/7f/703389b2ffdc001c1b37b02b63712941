@@ -1,0 +1,3 @@
+server:
+  address: study-server.database.windows.net
+  port: 8080

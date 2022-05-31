@@ -1,0 +1,29 @@
+package com.walmart.GraphQL.Repo;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.stereotype.Repository;
+
+import com.walmart.GraphQL.Models.CourseDetails;
+
+import graphql.schema.DataFetcher;
+import graphql.schema.DataFetchingEnvironment;
+
+@Repository
+public class CoursesDataFetcher implements DataFetcher<List<CourseDetails>> {
+	
+	public List<CourseDetails> get(DataFetchingEnvironment dataFetchingEnviroment) {
+		CourseDetails courseDetails = new CourseDetails();
+		
+		courseDetails.getId();
+		courseDetails.getName();
+		courseDetails.getDesc();
+		
+		List<CourseDetails> courseDetailList = new ArrayList<>();
+		courseDetailList.add(courseDetails);
+		
+		return courseDetailList;
+	}
+
+}
